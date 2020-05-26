@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.bashrc
+!.vimrc
+!.gitignore
+
+# But not these folders
+!scripts
+!scripts/*
+
