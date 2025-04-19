@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/local/bin/matlab -desktop
+Icon=/home/sammy/dotfiles/.icons/matlabicon/matlabicon_256.png
+Name=matlab
+Comment=MATLAB
