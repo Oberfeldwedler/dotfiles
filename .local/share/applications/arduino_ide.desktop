@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/home/sammy/AppImages/arduino-ide_2.3.6_Linux_64bit.AppImage
+Icon=/home/sammy/dotfiles/.icons/arduino_ide/512x512.png
+Name=Arduino IDE
+Comment=Arduino IDE
+Categories=Development;Electronics;IDE;
+StartupNotify=true
