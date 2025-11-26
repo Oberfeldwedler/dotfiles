@@ -20,3 +20,5 @@ if [ -f "${SSH_ENV}" ]; then
 else
     start_agent;
 fi
+
+echo "ssh-agent for ubuntu loaded"
